@@ -55,11 +55,6 @@ If you have any questions or need assistance, you can contact the project owner:
 
 - 1.0.0 (Initial Release)
 
-## Question and Answer Data
-
-The questions and answer choices for the quiz are stored in the `QuestionAnswer.java` file. This file contains arrays that define the questions, answer choices, and correct answers used in the application.
-
-
 
 
 
