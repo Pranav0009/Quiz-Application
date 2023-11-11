@@ -3,6 +3,14 @@
 
 This Android application is a simple quiz game developed using Java and Android Studio. Users can answer a series of questions and check their scores at the end of the quiz. The application provides a user-friendly interface for an enjoyable quiz experience.
 
+
+## **Technologies Used**
+
+<a href="https://www.python.org/">
+    <img src="https://icons8.com/icon/GPfHz0SM85FX/java"></a>
+<br>
+
+  
 ## Features
 
 - Multiple-choice questions.
