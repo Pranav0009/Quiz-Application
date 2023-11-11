@@ -7,8 +7,7 @@ This Android application is a simple quiz game developed using Java and Android 
 ## **Technologies Used**
 
 <a href="https://www.python.org/">
-    <img src="https://icons8.com/icon/GPfHz0SM85FX/java-coffee-cup-logo--v2")
-"></a>
+    <img src="https://img.icons8.com/?size=48&id=13679&format=png"></a>
 <br>
 
   
