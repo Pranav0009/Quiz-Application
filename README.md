@@ -8,11 +8,9 @@ This Android application is a simple quiz game developed using Java and Android 
 
 <a href="https://www.java.com/download/ie_manual.jsp">
     <img src="https://img.icons8.com/?size=48&id=13679&format=png"></a>
-<br>
 
 <a href="https://developer.android.com/studio">
     <img src="https://img.icons8.com/?size=48&id=04OFrkjznvcd&format=png"></a>
-<br>
 
   
 ## Features
