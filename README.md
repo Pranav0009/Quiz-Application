@@ -1,7 +1,5 @@
 # Quiz Application
 
-(![SS](https://github.com/Pranav0009/Quiz-Application/assets/93175823/c68c7c99-972f-4d18-bc16-5aaa514bf9f9))
-![Screenshot_2023-11-11-10-48-29-357_easy tuto myquizapplication](https://github.com/Pranav0009/Quiz-Application/assets/93175823/eb0b68c4-b300-4c88-b38f-992639ad9e0d)
 
 This Android application is a simple quiz game developed using Java and Android Studio. Users can answer a series of questions and check their scores at the end of the quiz. The application provides a user-friendly interface for an enjoyable quiz experience.
 
@@ -57,5 +55,8 @@ If you have any questions or need assistance, you can contact the project owner:
 - 1.0.0 (Initial Release)
 
 
+## Snapshots
 
+![SS](https://github.com/Pranav0009/Quiz-Application/assets/93175823/c68c7c99-972f-4d18-bc16-5aaa514bf9f9)
+![Screenshot_2023-11-11-10-48-29-357_easy tuto myquizapplication](https://github.com/Pranav0009/Quiz-Application/assets/93175823/eb0b68c4-b300-4c88-b38f-992639ad9e0d)
 
