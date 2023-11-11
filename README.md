@@ -22,8 +22,8 @@ This Android application is a simple quiz game developed using Java and Android 
 To run the application on your Android device or emulator:
 
 1. Clone this repository:
-
-git clone https://github.com/your-username/quiz-app.git
+   ```bash
+   git clone https://github.com/your-username/quiz-app.git
 
 
 2. Open the project in Android Studio.
