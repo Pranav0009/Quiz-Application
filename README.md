@@ -23,7 +23,7 @@ To run the application on your Android device or emulator:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/Pranav0009/Quiz-Application.git
 
 
 2. Open the project in Android Studio.
