@@ -1,6 +1,7 @@
 # Quiz Application
 
-![Quiz App Screenshot](path/to/quiz_app_screenshot.png)
+![Quiz App Screenshot]( ![Screenshot_2023-11-11-10-48-29-357_easy tuto myquizapplication](https://github.com/Pranav0009/Quiz-Application/assets/93175823/6473dec1-2c47-4f52-ad2a-6dcf7e391106)
+  )
 
 This Android application is a simple quiz game developed using Java and Android Studio. Users can answer a series of questions and check their scores at the end of the quiz. The application provides a user-friendly interface for an enjoyable quiz experience.
 
