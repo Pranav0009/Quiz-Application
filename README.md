@@ -7,7 +7,8 @@ This Android application is a simple quiz game developed using Java and Android 
 ## **Technologies Used**
 
 <a href="https://www.python.org/">
-    <img src="https://icons8.com/icon/GPfHz0SM85FX/java"></a>
+    <img src="![image](https://github.com/Pranav0009/Quiz-Application/assets/93175823/37771ad0-90c8-4aae-af23-8d1b099d0ed7)
+"></a>
 <br>
 
   
